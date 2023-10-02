@@ -1,0 +1,21 @@
+{
+  "name": "test_keys",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitpwned/test_keys.git"
+  },
+  "keywords": [
+    "gitpwned"
+  ],
+  "author": "gitpwned",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitpwned/test_keys/issues"
+  },
+  "homepage": "https://github.com/gitpwned/test_keys"
+}
